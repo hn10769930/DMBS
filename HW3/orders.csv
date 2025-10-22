@@ -1,3 +1,4 @@
+"oid,shipping_method,shipping_cost"
 "1,USPS,2.98"
 "2,UPS,4.83"
 "3,USPS,9.68"
@@ -498,4 +499,3 @@
 "498,UPS,1.50"
 "499,FedEx,0.48"
 "500,UPS,11.76"
-""
